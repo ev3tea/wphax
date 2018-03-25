@@ -5,7 +5,7 @@ WP Version used: **3.8**
 ## **Exploit 1**
 
 **Description:**
-"Upload media" can be hacked with **XSS**.
+"Upload media" section can be hacked with **XSS**.
 
 **Steps:**
 
