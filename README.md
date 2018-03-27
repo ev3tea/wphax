@@ -2,6 +2,7 @@
 
 ## **Exploit 1**
 WP Version used: **3.8**
+
 **Description:**
 "Upload media" section can be hacked with **XSS**.
 
@@ -16,6 +17,7 @@ WP Version used: **3.8**
 
 ## **Exploit 2**
 WP Version used: **4.2**
+
 **Description:**
 Stored **XSS** can be executed with malicious comment.
 
