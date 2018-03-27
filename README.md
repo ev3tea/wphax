@@ -9,7 +9,7 @@ WP Version used: **3.8**
 **Steps:**
 
 * Go to **Upload Media** menu.
-* Upload a file which is more than **20MB** with *"file<img src=x onerror=alert("hacked")>.png"* name.
+* Upload a file which is more than **20MB** with `"file<img src=x onerror=alert("hacked")>.png"` name.
 
 ![Our user is author, so can upload media](https://i.imgur.com/z6pj5HV.png)
 ![Upload Media](https://i.imgur.com/Ad0wZIt.png)
