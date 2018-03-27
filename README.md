@@ -14,11 +14,9 @@ WP Version used: **3.8**
 
 ![Upload Media](https://i.imgur.com/Ad0wZIt.png)
 
+* DONE
 ![XSS](https://i.imgur.com/aRp2L62.png)
 
-![Our user is author, so can upload media](https://i.imgur.com/z6pj5HV.png)
-
-![XSS](https://i.imgur.com/aRp2L62.png)
 
 ## **Exploit 2**
 WP Version used: **4.2**
