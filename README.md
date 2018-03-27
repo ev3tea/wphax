@@ -17,6 +17,7 @@ WP Version used: **3.8**
 ![XSS](https://i.imgur.com/aRp2L62.png)
 
 ***
+
 ## **Exploit 2**
 WP Version used: **4.2**
 
