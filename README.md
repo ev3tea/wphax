@@ -13,7 +13,7 @@ WP Version used: **3.8**
 * Upload a file which is more than **20MB** with `"file<img src=x onerror=alert("hacked")>.png"` name.
 ![Upload Media](https://i.imgur.com/Ad0wZIt.png)
 
-* DONE
+* Done
 ![XSS](https://i.imgur.com/aRp2L62.png)
 
 
